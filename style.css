@@ -1,0 +1,51 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    text-align: center;
+}
+h2{
+    color:royalblue;
+}
+
+.Education .right{
+    float: right;
+}
+.Work_experience .right{
+    float: right;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.a1{
+    color:grey;
+}
+.a2{
+    color: grey;
+    margin-left: 20vw;
+}
+.a3{
+    color: grey;
+    margin-left: 20vw;
+}
+.a4{
+    color: grey;
+    margin-left: 20vw;
+}
+.a5{
+    color: grey;
+    float: right;
+}
+
+.right{
+    font-weight: bold;
+    float: right;
+}
+
+img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
